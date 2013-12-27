@@ -21,10 +21,8 @@ We're actively looking for new features, bug fixes, etc. for Jiffy. If you want 
 As far as guidelines go we aren't too picky, just try to follow PEP8 for antying in Python, comment your code so everyone knows what it does. (I'll be sure to do the same in the future.)
 Also, try to stick with the standard library.
 
-If you submit a change that is super awesome you might be added to the [docs/CONTRIBUTORS.md](https://github.com/drkabob/Jiffy/blob/master/JiffyPlugin/docs/CONTRIBUTORS.md) list along with what you contributed!
-
 ## License
-The bot is licensed under GPL v3. Please view the license file in [docs/LICENSE](https://github.com/drkabob/JiffyBot/blob/master/docs/LICENSE).
+The bot is licensed under GPL v3. Please view the license file in [docs/LICENSE](https://github.com/drkabob/Jiffy/blob/master/JiffyPlugin/docs/LICENSE).
 
 
 ## Who are the people behind Jiffy?

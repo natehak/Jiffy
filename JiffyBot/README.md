@@ -22,8 +22,6 @@ We're actively looking for new features, bug fixes, etc. for JiffyBot. If you wa
 As far as guidelines go we aren't too picky, just try to follow PEP8, comment your code so everyone knows what it does. (I'll be sure to do the same in the future.)
 Also, try to stick with the modules that are currently loaded or are in the standard library. If you do need or want functionality that is in external library, don't be discouraged, just be sure to mention it in the pull request.
 
-If you submit a change that is super awesome you might be added to the [docs/CONTRIBUTORS.md](https://github.com/drkabob/Jiffy/blob/master/Jiffy/docs/CONTRIBUTORS.md) list along with what you contributed!
-
 ### But **what** should I do to help?
 If you're looking for something to do look at the todo list in [docs/TODO.md](https://github.com/drkabob/Jiffy/blob/master/JiffyBot/docs/TODO.md)
 
