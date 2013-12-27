@@ -1,6 +1,6 @@
 # Jiffy: The GIF Creating Plugin
 
-## What is plugin?
+## What is the Jiffy plugin?
 This is the source code for the Chrome extension [Jiffy](https://chrome.google.com/webstore/detail/jiffy-the-gif-creating-pl/nlcjegmhpnnlbkpcfbechbjicnakhben)
 
 Jiffy is an extension that turns parts of YouTube videos into GIF images that you can then share with your friends, post on social media, whatever you want. No longer do you need to go to separate sites or download complicated tools onto your computer. With Jiffy, all you need to do is navigate to the YouTube video that you want to make a GIF out of and Jiffy will be right below the video player.
