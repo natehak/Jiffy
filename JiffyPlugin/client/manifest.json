@@ -1,0 +1,18 @@
+{
+   "content_scripts": [ {
+      "exclude_globs": [ "http://apiblog.youtube.com/*", "https://apiblog.youtube.com/*" ],
+      "exclude_matches": [  ],
+      "include_globs": [  ],
+      "js": [ "script.js" ],
+      "matches": [ "http://*.youtube.com/watch*", "http://userscripts.org/scripts/source/114002.meta.js", "https://*.youtube.com/watch*" ],
+      "run_at": "document_idle"
+   } ],
+   "description": "An extension for YouTube that turns YouTube clips into animated GIFs",
+   "name": "Jiffy: The GIF Creating Plugin",
+   "version": "1.0.1",
+   "manifest_version": 2,
+   "icons": {
+    "128": "jiffy128.png"
+    },
+    "short_name": "Jiffy"
+}
