@@ -9,7 +9,7 @@ You can find out more [on this reddit post.](www.reddit.com/r/JiffyBot/comments/
 
 You can find info on setting the bot up in the [docs/SETUP.md](https://github.com/drkabob/Jiffy/blob/master/JiffyPlugin/docs/SETUP.md) file.
 
-Check it out, [we got mentioned on Lifehacker!](http://lifehacker.com/the-best-extensions-and-add-ons-to-beef-up-youtube-1488489306)
+Check it out, [we got mentioned on Lifehacker](http://lifehacker.com/the-best-extensions-and-add-ons-to-beef-up-youtube-1488489306)[, twice!](http://lifehacker.com/the-complete-guide-to-making-animated-gifs-1503276993)
 
 ### Help! The plugin isn't working or I can't set it up or I'm getting weird errors or I've grown a third arm!
 You can find help by posting something on JiffyBot's [subreddit](http://www.reddit.com/r/JiffyBot).
